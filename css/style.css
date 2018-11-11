@@ -1,0 +1,30 @@
+.my-card-title{color: #5a8ee2}
+
+.text-italics{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.navbar-brand{
+	font-weight: bolder;
+	color: #fbf9fc
+}
+
+.contact-text{
+	text-decoration: underline;
+	font-style: inherit;
+}
+
+h1{font-family: 'Spicy Rice', cursive;
+}
+html{
+    background: url(https://images.unsplash.com/photo-1528872042734-8f50f9d3c59b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6deb4b00786d9792d69e8458f30d59d1&w=1000&q=80);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
